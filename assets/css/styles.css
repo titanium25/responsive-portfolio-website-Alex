@@ -525,7 +525,7 @@ img {
     width: 85%;
 }
 
-.skills__php {
+.skills__java {
     width: 80%;
 }
 
@@ -534,23 +534,23 @@ img {
 }
 
 .skills__firebase {
-    width: 90%;
+    width: 50%;
 }
 
-.skills__python {
-    width: 55%;
+.skills__spring {
+    width: 80%;
 }
 
-.skills__figma {
-    width: 90%;
+.skills__unix {
+    width: 70%;
 }
 
-.skills__sketch {
-    width: 85%;
+.skills__server {
+    width: 80%;
 }
 
-.skills__photoshop {
-    width: 85%;
+.skills__amazon {
+    width: 70%;
 }
 
 .skills__close .skills__list {
@@ -823,7 +823,7 @@ img {
 }
 
 .project__img {
-    width: 232px;
+    width: 332px;
     justify-self: center;
 }
 

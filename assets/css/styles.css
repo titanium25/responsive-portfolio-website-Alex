@@ -862,6 +862,7 @@ img {
 
 .testimonial__icon--star {
     color: var(--first-color);
+    font-size: 1rem;
 }
 
 .swiper-container .swiper-pagination-testimonial {

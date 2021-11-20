@@ -514,11 +514,11 @@ img {
 }
 
 .skills__css {
-    width: 80%;
+    width: 90%;
 }
 
 .skills__js {
-    width: 60%;
+    width: 80%;
 }
 
 .skills__react {
@@ -526,15 +526,15 @@ img {
 }
 
 .skills__java {
-    width: 80%;
+    width: 90%;
 }
 
 .skills__node {
-    width: 70%;
+    width: 90%;
 }
 
 .skills__firebase {
-    width: 50%;
+    width: 75%;
 }
 
 .skills__spring {
@@ -542,7 +542,7 @@ img {
 }
 
 .skills__unix {
-    width: 70%;
+    width: 85%;
 }
 
 .skills__server {
@@ -550,7 +550,7 @@ img {
 }
 
 .skills__amazon {
-    width: 70%;
+    width: 90%;
 }
 
 .skills__close .skills__list {
@@ -760,6 +760,7 @@ img {
 
 .portfolio__description {
     margin-bottom: var(--mb-0-75);
+    font-size: var( --small-font-size);
 }
 
 .portfolio__button:hover .button__icon {
